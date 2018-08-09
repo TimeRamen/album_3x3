@@ -1,0 +1,42 @@
+p{
+	text-align : center;
+	font-family: 'Montserrat', sans-serif;
+	
+	
+}
+.heading{
+	font-size : 50px;
+	font-weight : 800;
+	text-transform : uppercase;
+	padding-bottom : 10px;
+	border-bottom : 3px solid #f1f1f1;
+	margin-left: 1.66%;
+	margin-right: 1.66%;
+	margin-bottom: 0.5%;
+}
+.caption{
+	font-size : 20px;
+	opacity : 0.6;
+	font-style : italic;
+}
+
+img{
+	width : 30%;
+
+	margin : 1.66%;
+	float : left;
+}
+
+img:hover{
+	opacity : 0.5;
+	
+	
+}
+
+div{
+	
+}
+
+div:hover{
+	
+}
