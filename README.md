@@ -1,8 +1,8 @@
-# album_3x3
+# Album 3x3 Website
 A website to display a 3x3 grid of album covers
 
 
-# To-Do List:
+## To-Do List:
 
 - [x] Space out the album covers
 - [x] Albums resize when you resize the browser window
